@@ -1,4 +1,4 @@
-ر# Hello there 👋 I'm Ganna Negm  
+# Hello everybody 👋 I'm Ganna Negm  
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
