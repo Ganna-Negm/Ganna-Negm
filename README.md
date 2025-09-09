@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: HTML, CSS, CSS3, Python, C++  
+- **Languages**: HTML, CSS, CSS3, Python, C++,C  
 - **Focus**: Front-End Development, Networking Concepts  
 - **Learning**: JavaScript, React  
 
