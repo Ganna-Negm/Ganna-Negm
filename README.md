@@ -23,9 +23,9 @@ Power BI for interactive dashboards
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: HTML, CSS, CSS3, Python, C++,C  
-- **Focus**: Front-End Development, Networking Concepts  
-- **Learning**: JavaScript, React  
+- **Tools**:Power Bi , SQL, Excel, Python  
+- **Focus**: Data Ananylsis, DataBases Design  
+- **Learning**: Advanced Sql, Python,Tableau  
 
 ---
 
