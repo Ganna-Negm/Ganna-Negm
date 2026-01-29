@@ -2,16 +2,23 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-💻 **Front-End Developer** | 🌐 **Networking Enthusiast** | 📚 **Continuous Learner**
+Data Analysis Trainee📊 | Excel | SQL | Power BI | Python | Passionate about Data & Databases | Self-Learner
 
 ---
 
 ### 👩‍💻 About Me
-- Passionate about **Front-End Development** and building responsive, user-friendly websites.  
-- Solid foundation in **HTML, CSS, CSS3** for web design and styling.  
-- Knowledge of programming with **Python** and **C++**.  
-- Interested in **Networking**, and always exploring how the web infrastructure works.  
-- Currently enhancing my skills in **JavaScript** and modern Front-End frameworks.  
+-I am a passionate data enthusiast with a strong interest in data analysis, databases, and data-driven decision making. 
+I enjoy working with data from cleaning and exploration to analysis and visualization.
+I have hands-on experience using:
+SQL for databases and querying
+Python for data analysis
+Excel for data cleaning and analysis
+Power BI for interactive dashboards
+ I am especially interested in user behavior analysis, database concepts, and transforming raw data into clear, actionable insights.
+ I am continuously learning through hands-on projects and real datasets, with a strong motivation to grow as a Data Analyst and gain real-world experience.  
+-   
+ 
+   
 
 ---
 
@@ -23,9 +30,19 @@
 ---
 
 ### 🌱 Goals
-- Build modern, interactive web applications.  
-- Deepen my knowledge in **networking** and its integration with development.  
-- Contribute to open-source projects and grow as a developer.  
+ -Build strong foundations in SQL, Power BI, and data analysis fundamentals
+
+Apply analytical skills to real-world business problems and datasets
+-
+Transform raw data into meaningful insights and dashboards
+-
+Practice data modeling, querying, and basic data validation
+-
+Develop a data-driven mindset to support business decision-making
+-
+Continuously improve technical and analytical skills through hands-on projects
+-   
+   
 
 ---
 
